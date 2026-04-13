@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. <WRITE YOUR ANSWER TO Q1 HERE>Jackson Irvine
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. <WRITE YOUR ANSWER TO Q2 HERE>I took three years of programming in high school. I have used python, java, and c#
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. <WRITE YOUR ANSWER TO Q3 HERE>A very small amount from four years ago.
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. <WRITE YOUR ANSWER TO Q4 HERE>I think it helps to build the problem solving skills required for engineering, as well as allowing you to have a better understanding of any programming related to your field of work.
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. <WRITE YOUR ANSWER TO Q5 HERE>I think it could help you by building general problem solving skills.
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. <WRITE YOUR ANSWER TO Q6 HERE>There aren't any specific topics that I am interested in a lecture about.
